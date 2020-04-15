@@ -1,9 +1,9 @@
 # C++ VS. C
 ## 为什么C++比C更好
 有什么是C++可以做到但C做不到的?  
-一个小示例: [Demo1](../../cpp-course-code/01-introduction/cpp_demo1.cpp)
+一个小示例: [Demo1](../../cpp-course-code/01_introduction/cpp_demo1.cpp)
 - 随着时间推移, 我们需要增加新的功能点.
-    - 比如通过一个状态信息来管理`print`的行为: [Demo2](../../cpp-course-code/01-introduction/cpp_demo2.cpp).
+    - 比如通过一个状态信息来管理`print`的行为: [Demo2](../../cpp-course-code/01_introduction/cpp_demo2.cpp).
         - C的处理方式: 添加全局变量和全局函数来处理.
         - C++处理方式: 用一个类的成员变量和方法来管理.
 - 在C中进行扩展功能比较困难.
