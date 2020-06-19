@@ -3,6 +3,4 @@ project(nixie_cpp_learning)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(nixie_cpp_learning
-#        cpp-course-code/01_introduction/cpp_demo1.cpp)
-        cpp-course-code/01_introduction/cpp_demo2.cpp)
+add_executable(nixie_cpp_learning cpp-course-code/03_operator_and_expression/06_bit_operator.cpp)
