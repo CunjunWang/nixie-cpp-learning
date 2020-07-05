@@ -3,4 +3,4 @@ project(nixie_cpp_learning)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(nixie_cpp_learning cpp-course-code/05_pointer_and_reference/demo5_3_const_pointers.cpp)
+add_executable(nixie_cpp_learning cpp-course-code/05_pointer_and_reference/demo5_4_pointer_to_pointer.cpp)
