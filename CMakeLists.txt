@@ -3,4 +3,4 @@ project(nixie_cpp_learning)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(nixie_cpp_learning cpp-course-code/05_pointer_and_reference/demo5_5_null_pointer.cpp)
+add_executable(nixie_cpp_learning cpp-course-code/05_pointer_and_reference/demo5_6_lrvalue_pointer.cpp)
