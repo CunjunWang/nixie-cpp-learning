@@ -3,4 +3,4 @@ project(nixie_cpp_learning)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(nixie_cpp_learning cpp-course-code/05_pointer_and_reference/demo5_7_pp_mm.cpp)
+add_executable(nixie_cpp_learning cpp-course-code/05_pointer_and_reference/demo5_8_memory.cpp)
